@@ -1,9 +1,7 @@
 {
   "name": "shared-styles",
   "description": "CSS styles shared between neXtProt webcomponents",
-  "authors": [
-    "marcin.domagalski@sib.swiss"
-  ],
+  "authors": ["marcin.domagalski@sib.swiss"],
   "keywords": [
     "web-components",
     "nextprot-webcomponents",
@@ -12,7 +10,7 @@
   "main": "shared-styles.html",
   "repository": {
     "type": "git",
-    "url": "git://github.com/calipho-sib-webcomponents/shared-styles.git#develop"
+    "url": "git://github.com/calipho-sib-webcomponents/shared-styles.git"
   },
   "homepage": "https://github.com/calipho-sib-webcomponents/shared-styles",
   "dependencies": {
